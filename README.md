@@ -4,6 +4,8 @@ The Experience API (xAPI)Conformance Requirements for Learning Record Stores
 
 Version 1.0.3
 
+> An accessible, printer-ready and reader-friendly version of this document is also available as a gitbook here: https://www.gitbook.com/book/adl/xapi-lrs-conformance-requirements/content/
+
 **Megan Bowe, Technical Editor**
 
 ![](DISC-logo-primary-2-300x121.png)
