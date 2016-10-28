@@ -5,7 +5,7 @@
    * [Purpose](introduction/purpose.md)
    * [Scope](introduction/scope.md)
 * [Community Contributors](community_contributors.md)
-* [Conventions](conventions/README.md)
+* Conventions
    * [Definitions](conventions/definitions.md)
    * [Keywords](conventions/keywords.md)
    * [Identifiers](conventions/identifiers.md)
