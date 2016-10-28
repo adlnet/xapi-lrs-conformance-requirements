@@ -1,0 +1,1 @@
+# 4.0. [Special Data Types and Rules](https://github.com/adlnet/xAPI-Spec/blob/1.0.3/xAPI-Data.md#special-data) {#4-0-special-data-types-and-rules}

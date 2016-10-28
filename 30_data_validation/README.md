@@ -1,0 +1,1 @@
+# 3.0. [Data Validation](https://github.com/adlnet/xAPI-Spec/blob/1.0.3/xAPI-Communication.md#validation) {#3-0-data-validation}

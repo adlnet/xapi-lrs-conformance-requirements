@@ -1,0 +1,1 @@
+# 1.0. [Requests](https://github.com/adlnet/xAPI-Spec/blob/1.0.3/xAPI-Communication.md#requests) {#1-0-requests}

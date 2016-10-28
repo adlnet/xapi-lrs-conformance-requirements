@@ -1,0 +1,1 @@
+# Part Three: [Data Processing, Validation, and Security](https://github.com/adlnet/xAPI-Spec/blob/1.0.3/xAPI-Communication.md#partthree) {#part-three-data-processing-validation-and-security}
