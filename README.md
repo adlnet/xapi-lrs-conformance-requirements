@@ -6,11 +6,11 @@ Version 1.0.3
 
 **Megan Bowe, Technical Editor**
 
-![disc-logo-primary.png](export/assets/disc-logo-primary.png)
+![](DISC-logo-primary-2-300x121.png)
 
 Under contract #W911QY-16-C-0109 by
 
-![adl-gray-standard.png](export/assets/adl-gray-standard.png)
+![](adl-gray-standard.png)
 
 The Experience API (xAPI) Conformance Requirements for Learning Record Stores Version 1.0.3
 
