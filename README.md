@@ -2,9 +2,10 @@
 
 The Experience API (xAPI)Conformance Requirements for Learning Record Stores
 
-Version 1.0.3
 
-This document is maintained on github: https://github.com/adlnet/xapi-lrs-conformance-requirements
+### Version 1.0.3
+
+**This document is maintained on github:** https://github.com/adlnet/xapi-lrs-conformance-requirements
 
 > An accessible, printer-ready and reader-friendly version of this same document is also available as a gitbook here: https://adl.gitbooks.io/xapi-lrs-conformance-requirements/content/
 
